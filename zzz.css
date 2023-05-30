@@ -1,0 +1,245 @@
+.navbar{
+    background: rgb(94, 112, 165);
+    padding: 1.2 rem;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.navigation.logo{
+    color: blue;
+    font-size: 2rem;
+    display: block;
+    text-decoration: none;
+    font-family: var(--playfair);
+    letter-spacing: 1px;
+
+}
+.navbar-nav{
+    padding: 0,8rem 0 0.rem 0;
+}
+.navbar-nav a{
+    text-transform: uppercase;
+    font-family: var(--roboto);
+    letter-spacing: 3px;
+    font-weight: 500;
+    color: aquamarine;
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+    transition: opaty 0.5s;
+}
+.navbar-nav a:hover{
+    opacity: 0.7;
+    color: yellow;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 9%;
+}
+.banner-title{
+    font-size: 5rem;
+    font-family: var(--playfair);
+    line-height: 1.2;
+}
+.banner-title span{
+    font-family: var(--playfair);
+    color: var(--exdark);
+}
+.banner p{
+    padding-left: 1rem 0 2rem 0;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-family: var(--roboto);
+    font-weight: 300;
+    word-spacing: 2px;
+}
+.banner form{
+    background: rgb(125, 225, 215);
+    border-radius: 2rem;
+    padding: 0.6rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.4rem;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-nav{
+    glyph-orientation-vertical: auto;
+    clip-rule: nonzero;
+    background-position: 0cap;
+    scroll-margin-block-end: 66%;
+    padding-right: 0cqmax;
+}
+.banner{
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    flex: auto;
+    flex-grow: initial;
+    font: 700;
+    flex-direction: column-reverse;
+    float: center;
+    align-items: center;
+}
+.navigation.logo{
+    backdrop-filter: unset;
+    border-bottom: 0cqw;
+    max-width: max-content;
+    nav-up: root;
+}
+.design{
+    text-align: center;
+    float: center;
+}
+body{
+    border-radius: 50%;
+    background-color: green;
+}
+
+
+.search-input {
+    width: 520px;
+    padding: 15px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    font-size: 22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+.search-btn {
+    width: 170px;
+    background-color: rgb(97, 158, 158);
+    font-family: sans-serif;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.shohrux img{
+    width: 24% ;
+    margin-left: 10px;
+   height: 500px; 
+   
+}
+ .wwwaaa h1{
+    color: yellow;
+    width: 40%;
+    float: left ;
+    margin: 5%; 
+
+ } 
+ .asd img{
+    width: 47%;
+    margin-left: 15px;
+    height: 500px;
+ }
+ hr{
+    margin-bottom: 15px;
+ }
+ .aaaa{
+    color: rgb(4, 0, 128);
+    width: 40%;
+    text-align:center; 
+    margin: 0 auto;
+ }
+.ppp img{
+    width: 700px;
+    border-radius: 50px;
+
+}
+
+.ppp {
+    width: 50%;
+    
+    margin: 0 auto;
+}
+.ppp audio{
+    align-content: center;
+    margin: 0 auto;
+    width: 95%;
+}
+
+
+
+.fff img {
+    width: 23%;
+    height: 250px;
+    margin: 14px;
+    float: left;  
+    border-radius: 10%;
+}
+.fff audio {
+    width: 23%;
+    margin: 0px 14px;
+
+    float: left;
+} 
+.real h1{
+text-align: center;
+color: blueviolet;
+}
+.real h2{
+    text-align: center;
+    color: aqua;
+}
+.real h3{
+    text-align:center ;
+    color: brown;
+}
+.real h4{
+    text-align: center;
+    color: antiquewhite;
+}
+.erer p{
+    color: rgb(188, 188, 201);
+    width: 100%; 
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.youtube iframe{
+    margin-left: 15px;
+}
+.youtube h1 {
+    color: red;
+    text-align: center;
+}
+.youtube big{
+    color: blue;
+}
+.dev i{
+    color: rgb(251, 255, 0);   
+}
+.dev h1{
+    color: rgb(254, 254, 254);
+    text-align: center;
+}
+
+.dev p{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+   
